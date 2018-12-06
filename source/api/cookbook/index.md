@@ -51,8 +51,8 @@ _The corresponding 2.1 test fixture(s) is given like this, where appropriate: ..
 * Simplest Manifest - Video (1) (use single video as content resource, w,h,d)
 * Image different size to canvas (26)
 * Image Service for single image (24,25)
-* metadata and summary (2,5)
 * Multiple values and languages (3,4,6)
+* metadata and summary (2,5)
 * Multiple formats of strings (text, html, markdown...?) (64)
 * Rights statement(s) (7)
 * Book (simplest, > 1 canvas) (19)
@@ -71,6 +71,7 @@ _The corresponding 2.1 test fixture(s) is given like this, where appropriate: ..
 
 * Transcription of image-based content - various examples gathered (43,44,45,46,47,48)
 * Transcription of audio and video
+* Transcription of content into XML, with XPaths to select a segment
 
 ## Other kinds of annotations 
 _(leading on to segmentation examples later)_
